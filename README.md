@@ -1,5 +1,9 @@
 # kickstart.nvim
 
+Tested with:
+- Neovim 0.11.7 on Mac (arm)
+- Neovim 0.11.2 on Ubuntu
+
 ## Introduction
 
 A starting point for Neovim that is:
